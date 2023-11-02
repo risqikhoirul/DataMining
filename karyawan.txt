@@ -1,0 +1,11 @@
+Education,PaymentTier,Gender,EverBenched,LeaveOrNot
+Bachelors,3,Male,No,0
+Bachelors,1,Female,No,1
+Bachelors,3,Female,No,0
+Masters,3,Male,No,1
+Masters,3,Male,Yes,1
+Bachelors,3,Male,No,0
+Bachelors,3,Male,No,0
+Bachelors,3,Female,No,1
+Bachelors,3,Male,No,0
+Masters,2,Male,No,0
