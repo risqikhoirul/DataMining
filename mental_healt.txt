@@ -8,4 +8,4 @@ anxiety_level,self_esteem,mental_health_history,depression,stress_level
 4,26,0,6,Tidak Stres
 17,3,1,22,Sedang
 13,22,1,12,Ringan
-6,8,0,27Ringan
+6,8,0,27,Ringan
